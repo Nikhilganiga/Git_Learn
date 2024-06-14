@@ -1,1 +1,3 @@
-Content of text2
+Content of text1
+
+text1 updated
