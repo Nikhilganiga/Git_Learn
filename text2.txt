@@ -1,4 +1,5 @@
 Content of text2
 uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+iiiiiiiiiiiiiiiiiiiiii
 
 undo using restore command
